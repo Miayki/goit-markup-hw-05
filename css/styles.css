@@ -43,10 +43,6 @@ body {
 .adres {
   font-style: normal;
 }
-.adresul {
-  display: flex;
-  gap: 40px;
-}
 
 .sectionone {
   background-color: #2e2f42;
