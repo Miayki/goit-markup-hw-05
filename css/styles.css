@@ -43,7 +43,7 @@ body {
 .adres {
   font-style: normal;
 }
-.adresul {
+.adreslist {
   display: flex;
   gap: 40px;
 }
