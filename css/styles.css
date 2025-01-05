@@ -81,17 +81,25 @@ body {
 .button:focus {
   background-color: #404bbf;
 }
-
+.sectiontwoul {
+  display: flex;
+  gap: 24px;
+}
+.sectiontwoli {
+  width: calc((100%-72px) / 4);
+}
 .missionone {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .missiontwo {
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding: 120px 0;
 }
 .sectionthree {
   background-color: #f4f4fd;
