@@ -81,6 +81,9 @@ body {
 .button:focus {
   background-color: #404bbf;
 }
+.sectiontwo {
+  padding: 120px 0;
+}
 .sectiontwoul {
   display: flex;
   gap: 24px;
