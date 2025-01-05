@@ -172,7 +172,6 @@ body {
 .footer {
   background-color: #2e2f42;
   padding: 100px 0;
-  
 }
 .footertwo {
   line-height: 1.5;
@@ -208,4 +207,8 @@ ul {
   border: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
+}
+.logoone {
+  display: inline-block;
+  margin-bottom: 16px;
 }
