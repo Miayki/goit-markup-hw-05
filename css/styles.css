@@ -84,6 +84,7 @@ body {
 .sectiontwo {
   padding: 120px 0;
 }
+.visually-hidden {overflow: hidden;}
 .sectiontwoul {
   display: flex;
   gap: 24px;
