@@ -155,6 +155,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 .portfoliotwo {
   font-weight: 500;
@@ -188,4 +189,21 @@ h6,
 p,
 ul {
   list-style-type: none;
+}
+.sectionfour {
+  padding: 120px 0;
+}
+.sectionfourul {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+.bank {
+  padding: 32px 16px;
+  border-top: none;
+  margin-bottom: 8px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
 }
