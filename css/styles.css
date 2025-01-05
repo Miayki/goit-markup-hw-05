@@ -85,7 +85,7 @@ body {
   padding: 120px 0;
 }
 .visually-hidden {
-  display: hidden;
+  display: none;
 }
 .sectiontwoul {
   display: flex;
