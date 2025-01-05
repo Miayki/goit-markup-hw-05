@@ -19,6 +19,13 @@ body {
   display: flex;
   align-items: center;
 }
+.navbarul {
+  display: flex;
+  gap: 40px;
+}
+.nav {
+  padding: 24px 0;
+}
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
