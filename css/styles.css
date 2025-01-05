@@ -11,7 +11,7 @@ body {
 }
 .container {
   display: flex;
-  width: 1158;
+  width: 1158px;
   padding: 0 15px;
 }
 .navbar {
