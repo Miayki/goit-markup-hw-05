@@ -233,12 +233,13 @@ body {
   align-items: center;
   justify-content: center;
 }
-.teamsix:hover {
-  background-color: #404bbf;
-}
 .teamsix:focus {
   background-color: #404bbf;
 }
+.teamsix:hover {
+  background-color: #404bbf;
+}
+
 .teamseven {
   fill: #f4f4fd;
 }
