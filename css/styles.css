@@ -220,10 +220,15 @@ body {
   gap: 24px;
 }
 .teamfive {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+.teamsix {
   width: 40px;
   height: 40px;
 }
-.teamsix {
+.teamseven {
   width: 100%;
   height: 100%;
   background-color: #4d5ae5;
@@ -232,16 +237,12 @@ body {
   align-items: center;
   justify-content: center;
 }
-.teamsix:hover {
+.teamseven:hover {
   background-color: #404bbf;
 }
-.teamsix:focus {
+.teamseven:focus {
   background-color: #404bbf;
 }
-.teameight {
-  fill: #f4f4fd;
-}
-
 .portfolio {
   font-size: 36px;
   line-height: 1.11;
