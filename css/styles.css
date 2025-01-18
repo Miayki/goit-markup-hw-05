@@ -305,7 +305,6 @@ ul {
 }
 .fourli:hover .portfoliothree {
   transform: translateY(0%);
-  color: black;
 }
 .bank {
   padding: 32px 16px;
