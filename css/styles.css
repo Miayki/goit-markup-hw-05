@@ -186,9 +186,6 @@ body {
   background-color: #404bbf;
 }
 
-.mark {
-  padding: 32px 0;
-}
 .socialfour {
   fill: #f4f4fd;
 }
@@ -198,6 +195,9 @@ body {
   border-radius: 0px 0px 4px 4px;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+}
+.mark {
+  padding: 32px 0;
 }
 .teamtwo {
   font-weight: 500;
@@ -227,6 +227,15 @@ body {
 .teamsix {
   width: 40px;
   height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.teamsix:hover {
+  background-color: #404bbf;
+}
+.teamsix:focus {
+  background-color: #404bbf;
 }
 .teamseven {
   width: 100%;
@@ -237,15 +246,7 @@ body {
   align-items: center;
   justify-content: center;
 }
-.teamseven:hover {
-  background-color: #404bbf;
-}
-.teamseven:focus {
-  background-color: #404bbf;
-}
-.teameight {
-  fill: #f4f4fd;
-}
+
 .portfolio {
   font-size: 36px;
   line-height: 1.11;
