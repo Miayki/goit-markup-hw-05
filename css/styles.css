@@ -199,7 +199,7 @@ body {
 .teamone:hover .mark {
   padding: 32px 0;
 }
-.teamone:hover .teamthree {
+.teamone:hover .[p] {
   transform: translateY(0%);
 }
 .teamtwo {
