@@ -312,8 +312,6 @@ ul {
 .four_li:hover .bank [p] {
   transform: translateY(0%);
 }
-.four_li_img {
-}
 
 .bank {
   padding: 32px 16px;
