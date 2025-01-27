@@ -348,3 +348,6 @@ ul {
 .footer {
   align-items: baseline;
 }
+.footer .container {
+  margin-right: 120px;
+}
