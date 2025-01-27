@@ -345,9 +345,9 @@ ul {
   color: #f4f4fd;
   color: black;
 }
-.footer {
+
+.footercontainer {
+  display: flex;
   align-items: baseline;
-}
-.footer .container {
   margin-right: 120px;
 }
