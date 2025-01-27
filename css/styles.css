@@ -16,6 +16,7 @@ body {
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
+  align-items: baseline;
 }
 .navbar {
   display: flex;
@@ -345,9 +346,6 @@ ul {
   color: #f4f4fd;
   color: black;
 }
-
-.footercontainer {
-  display: flex;
+.footer {
   align-items: baseline;
-  margin-right: 120px;
 }
