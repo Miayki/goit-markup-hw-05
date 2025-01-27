@@ -302,8 +302,6 @@ ul {
 }
 .four_li {
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  position: relative;
-  overflow: hidden;
 }
 .four_li:hover {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
@@ -311,6 +309,10 @@ ul {
 }
 .four_li:hover .bank [p] {
   transform: translateY(0%);
+}
+.four_li_img {
+  position: relative;
+  overflow: hidden;
 }
 
 .bank {
