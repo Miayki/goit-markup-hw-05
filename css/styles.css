@@ -371,6 +371,7 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 100%;
 }
 .footer_social_media_a:hover {
   background-color: #31d0aa;
