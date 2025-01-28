@@ -349,3 +349,32 @@ ul {
 .footerone {
   margin-right: 120px;
 }
+.footer_social_media {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+.footer_social_media_ul {
+  display: flex;
+  gap: 16px;
+}
+.footer_social_media_li {
+  width: 40px;
+  height: 40px;
+}
+.footer_social_media_a {
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer_social_media_a:hover {
+  background-color: #31d0aa;
+}
+.footer_social_media_a:focus {
+  background-color: #31d0aa;
+}
