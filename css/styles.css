@@ -396,3 +396,14 @@ ul {
   display: flex;
   gap: 24px;
 }
+
+.forminputnname {
+  width: 264px;
+  height: 40px;
+  border: 1px solid #ffffff;
+  background-color: transparent;
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
