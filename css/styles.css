@@ -502,7 +502,7 @@ ul {
 .modal-button:hover .modal-button-svg {
   fill: #ffffff;
 }
-.modal-text {
+.modalp {
   font: weight 500px;
   font-size: 16px;
   line-height: 1.5;
@@ -510,4 +510,7 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 16px;
+}
+.modal-form {
+  margin-bottom: 8px;
 }
