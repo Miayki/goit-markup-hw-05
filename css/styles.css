@@ -498,3 +498,6 @@ ul {
 .modal-button:hover [svg] {
   fill: #ffffff;
 }
+.modal-button:hover .modal-button-svg {
+  fill: #ffffff;
+}
