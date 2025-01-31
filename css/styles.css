@@ -570,5 +570,8 @@ ul {
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .text-area:focus {
-  color: #4d5ae5;
+  border-color: #4d5ae5;
+}
+.modal-formtwo {
+  margin-bottom: 16px;
 }
